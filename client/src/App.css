@@ -1,0 +1,8 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: end;
+  height: 98vh;
+  background-image: url('../public/imaginnovate.jpg');
+}
